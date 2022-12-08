@@ -19,6 +19,6 @@
 
 <br><br>
   
-:bulb:&nbsp; <b>My Most Used Languages on Github</b> <br><br>
+:bulb:&nbsp; <b>My Most Used Languages on Github</b> <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seymabozan&layout=compact" >
 
