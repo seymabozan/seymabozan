@@ -9,6 +9,6 @@
 </p>
 
 
-<summary>:bulb:  My Most Used Languages on Github </summary>
+<summary>:bulb:  My Most Used Languages on Github </summary><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seymabozan&layout=compact" >
 
