@@ -1,4 +1,4 @@
-### Hi 👋, I'm Seyma Bozan
+### Hi 👋, I'm Seyma Bozan 😊
 <hr>
 <h4 align="center"><b>Junior Back-End Developer</b></h4>
 
