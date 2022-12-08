@@ -8,7 +8,8 @@
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
 </p>
 
-
+<br><br>
+  
 <summary>:bulb:  My Most Used Languages on Github </summary><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seymabozan&layout=compact" >
 
