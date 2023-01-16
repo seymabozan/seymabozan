@@ -20,9 +20,5 @@
 <br><br>
   
 :bulb:<b>My Most Used Languages on Github</b> <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seymabozan&layout=compact" >
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seymabozan)]
+https://github-readme-stats.vercel.app/api/top-langs/?username=seymabozan
 
