@@ -16,9 +16,3 @@
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="cpp" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </p>
-
-<br><br>
-  
-:bulb:<b>My Most Used Languages on Github</b> <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seymabozan&layout=compact)](https://github.com/seymabozan/github-readme-stats)
-
