@@ -20,8 +20,8 @@
 
 <br/><br/>
 
-<a href="https://github.com/seymabozan/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seymabozan&repo=seymabozan.github.io&theme=buefy" />
+<a href="https://github.com/seymabozan/BitirmeProjesi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seymabozan&repo=BitirmeProjesi&theme=buefy" />
 </a>
 
 
