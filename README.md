@@ -28,5 +28,5 @@
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/seymaboza">
-    <img alt="LinkedIn" title="LinkedIn" height="42" width="45" src="https://cdn.simpleicons.org/linkedin"></a>
+    <img alt="LinkedIn" title="LinkedIn" height="30" width="30" src="https://cdn.simpleicons.org/linkedin"></a>
 
