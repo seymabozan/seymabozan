@@ -3,7 +3,7 @@
 ### Hi 👋
 <hr>
 <h3 align="center"><b>Junior Back-End Developer</b></h3>
-<p align="center">Hello, I'm Seyma Bozan, I am a graduate of Computer Programming.</p>
+<p align="center">*Hello, I'm Seyma Bozan, I am a graduate of Computer Programming.*</p>
 <h3 align="center"><br>Programming Languages</h3>
 
 <p align="center">
