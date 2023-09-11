@@ -23,3 +23,10 @@
 <a href="https://github.com/seymabozan/BitirmeProjesi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seymabozan&repo=seymabozan.github.io&theme=buefy" />
 </a>
+
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/seymaboza">
+    <img alt="LinkedIn" title="LinkedIn" height="42" width="45" src="https://cdn.simpleicons.org/linkedin"></a>
+
