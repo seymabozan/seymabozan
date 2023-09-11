@@ -1,9 +1,9 @@
-//### Hi 👋, I'm Seyma Bozan 😊
+
 
 ### Hi 👋
 <hr>
 <h3 align="center"><b>Junior Back-End Developer</b></h3>
-<p align="center"><b></b>Hello, I'm Seyma Bozan. I'm a graduate of Computer Programming.</b></p>
+<p align="center"><b></b>I'm Seyma Bozan 😊. I'm a graduate of Computer Programming.</b></p>
 <h3 align="center"><br>Programming Languages</h3>
 
 <p align="center">
