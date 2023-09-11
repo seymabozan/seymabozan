@@ -20,9 +20,4 @@
 
 <br/><br/>
 
-<a href="https://github.com/seymabozan/BitirmeProjesi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seymabozan&repo=BitirmeProjesi" />
-</a>
-
-
 
