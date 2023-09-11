@@ -20,6 +20,6 @@
 
 <br/><br/>
 
-<a href="https://github.com/seymabozan">
+<a href="https://github.com/seymabozan?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seymabozan&repo=seymabozan.github.io&theme=buefy" />
 </a>
