@@ -7,7 +7,7 @@
 <h3 align="center"><br>Programming Languages</h3>
 
 <p align="center">
-  <img src="http://www.w3.org/2000/svg" alt="laravel" width="42" height="42"/>
+  <img src="![1200px-Laravel svg](https://github.com/seymabozan/seymabozan/assets/101289239/c8b077d0-8c17-419d-a086-9d0e196efe0a)" alt="laravel" width="42" height="42"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="43" height="43">
